@@ -1,7 +1,7 @@
 
 # Show Layers 
 
-> This extension show this elements borders web pages.
+> This extension show this elements borders in web pages.
 
 ## Install
 
